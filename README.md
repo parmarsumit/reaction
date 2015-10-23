@@ -66,7 +66,7 @@ And finally for the kanban-esque, hardcore real time progress view, take a look 
 ### Code Repositories
 Hey! Where's all the code!? Most of it is in the [reaction-core](https://github.com/reactioncommerce/reaction-core/) package...
 
-We welcome pull requests to the latest `development` version branch. testing check 
+We welcome pull requests to the latest `development` version branch. creating nonsense project
 
 # Feedback
 **GitHub Issues** on the [Reaction](https://github.com/reactioncommerce/reaction) project are the best way to let us know about a feature request, or to report an issue.
